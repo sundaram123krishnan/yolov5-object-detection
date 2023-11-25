@@ -35,3 +35,10 @@ flake8
 yapf
 isort==4.3.21
 imageio
+
+
+#flask and related libraries ------------
+
+Flask>=2.0.1
+Flask-CORS>=3.0.10
+Flask-SocketIO>=5.0.2
